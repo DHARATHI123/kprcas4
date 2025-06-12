@@ -1,0 +1,30 @@
+  .line{
+            background-color: bisque;
+        }
+  #new{
+            font-family: cursive;
+        }
+ 
+    .parent p {
+        color:
+    }
+
+    .parent p{
+        color: chartreuse;
+    }
+
+
+
+
+    .inline{
+        display: inline;
+    }
+    .flexcontainer{
+        display: flex;
+    }
+    .item{
+        background-color: bisque;
+        border: red;
+        height:100;
+        width:100;
+    }
